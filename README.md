@@ -1,13 +1,13 @@
 # Hi, I'm Ion 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-ionchi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ion-chiriac/)](https://www.linkedin.com/in/ion-chiriac/){:target="_blank"}
+[![Linkedin Badge](https://img.shields.io/badge/-ionchi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ion-chiriac/)](https://www.linkedin.com/in/ion-chiriac/)
 [![Gmail Badge](https://img.shields.io/badge/-ion.chiriac@live.com-0078D4?style=for-the-badge&logo=microsoft-outlook&link=mailto:ion.chiriac@live.com)](mailto:ion.chiriac@live.com)
 
 ## I'm a Software Engineer
 
 I have almost three years of experience in software development, with particular focus on the Frontend - ⚡ Vue.js/Nuxt.js ⚡.
 
-- 🔭 I’m currently working @[Exeest][exeest]{:target="_blank"}
+- 🔭 I’m currently working @[Exeest][exeest]
 - 🌱 I’m currently learning Typescript & Flutter
 
 <br />
