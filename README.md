@@ -1,26 +1,22 @@
 # Hi, I'm Ion 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-ionchi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ion-chiriac/)](https://www.linkedin.com/in/ion-chiriac/)
+[![Linkedin Badge](https://img.shields.io/badge/-ionchi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ion-chiriac/)](https://www.linkedin.com/in/ion-chiriac/){:target="_blank"}
 [![Gmail Badge](https://img.shields.io/badge/-ion.chiriac@live.com-0078D4?style=for-the-badge&logo=microsoft-outlook&link=mailto:ion.chiriac@live.com)](mailto:ion.chiriac@live.com)
 
 ## I'm a Software Engineer
 
 I have almost three years of experience in software development, with particular focus on the Frontend - ⚡ Vue.js/Nuxt.js ⚡.
 
-- 🔭 I’m currently working @[Exeest][exeest]
+- 🔭 I’m currently working @[Exeest][exeest]{:target="_blank"}
 - 🌱 I’m currently learning Typescript & Flutter
 
 <br />
 
 ###  🚀 Github Stats:
-<br />
-<img alt="ionchi's Github Stats" src="https://github-readme-stats.ionchi.vercel.app/api?username=ionchi&theme=dark&hide_title=true&count_private=true&show_icons=true&hide_border=true" />
 
-<br />
-<br />
+<img alt="ionchi's Github Stats" src="https://github-readme-stats.ionchi.vercel.app/api?username=ionchi&hide_title=true&count_private=true&show_icons=true&hide_border=true" />
 
 ### ⚡ Technologies:
-<br />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
