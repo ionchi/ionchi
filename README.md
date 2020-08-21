@@ -10,8 +10,6 @@ I have almost three years of experience in software development, with particular
 - 🔭 I’m currently working @[Exeest][exeest]
 - 🌱 I’m currently learning Typescript & Flutter
 
-<br />
-
 ###  🚀 Github Stats:
 
 <img alt="ionchi's Github Stats" src="https://github-readme-stats.ionchi.vercel.app/api?username=ionchi&hide_title=true&count_private=true&show_icons=true&hide_border=true" />
