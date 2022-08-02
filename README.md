@@ -5,10 +5,10 @@
 
 ## I'm a Software Engineer
 
-I have more than three years of experience in software development, with particular focus on the Frontend - ⚡ Vue.js/Nuxt.js ⚡.
+I have more than four years of experience in software development, with particular focus on the Frontend - ⚡ Vue.js/Nuxt.js ⚡.
 
 - 🔭 I’m currently working @[Exeest][exeest]
-- 🌱 I’m currently learning Typescript & Flutter
+- 🌱 I’m currently learning React Native
 
 ### ⚡ Technologies:
 
