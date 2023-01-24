@@ -5,9 +5,9 @@
 
 ## I'm a Software Engineer
 
-I have more than four years of experience in software development, with particular focus on the Frontend - ⚡ Vue.js/Nuxt.js ⚡.
+I have more than four years of experience in software development, with particular focus on the Frontend - ⚡ Vue.js ⚡.
 
-- 🔭 I’m currently working @[Exeest][exeest]
+- 🔭 I’m currently working @[Docplanner][docplanner]
 - 🌱 I’m currently learning React Native
 
 ### ⚡ Technologies:
@@ -30,4 +30,4 @@ I have more than four years of experience in software development, with particul
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-[exeest]: https://exeest.com/
+[docplanner]: https://www.docplanner.com/
