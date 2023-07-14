@@ -1,16 +1,16 @@
 # Hi, I'm Ion 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-ionchi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ion-chiriac/)](https://www.linkedin.com/in/ion-chiriac/)
-[![Gmail Badge](https://img.shields.io/badge/-ion.chiriac@live.com-0078D4?style=for-the-badge&logo=microsoft-outlook&link=mailto:ion.chiriac@live.com)](mailto:ion.chiriac@live.com)
+[![Email Badge](https://img.shields.io/badge/-ion.chiriac@live.com-0078D4?style=for-the-badge&logo=microsoft-outlook&link=mailto:ion.chiriac@live.com)](mailto:ion.chiriac@live.com)
 
 ## I'm a Software Engineer
 
-I have more than four years of experience in software development, with particular focus on the Frontend - ⚡ Vue.js ⚡.
+I have many years of experience in software development, with a particular focus on the Frontend - Vue.js.
 
-- 🔭 I’m currently working @[Docplanner][docplanner]
-- 🌱 I’m currently learning React Native
+- 👨‍💻 I’m currently working @[Docplanner][docplanner]
+- 🔭 I’m currently exploring React Native
 
-### ⚡ Technologies:
+### Technologies:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
